@@ -1,16 +1,6 @@
-# Pixel Art Maker Project
+# pixelArtMaker 
 
-## Table of Contents
+pixelArtMaker a fun project developed to enable users define the width and Height for a grid, 
+choose colors of their choice and maker beautiful designs with the grid.
 
-* [Instructions](#instructions)
-* [Contributing](#contributing)
-
-## Instructions
-
-To get started, open `designs.js` and start building out the app's functionality.
-
-For specific, detailed instructions, look at the project instructions in the [Udacity Classroom](https://classroom.udacity.com/me).
-
-## Contributing
-
-This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
+* This project was developed as part of the #ALCwithGoogle scholarship program (ALC2.0) tasks. 
