@@ -1,0 +1,67 @@
+body {
+    text-align: center;
+    background: gray;
+}
+
+h1 {
+    font-family: Monoton;
+    font-size: 70px;
+    margin: 0.2em;
+    color: rgb(14, 13, 13);
+}
+span{
+    color: rgb(128, 28, 28);
+}
+
+
+h2 {
+    margin: 1em 0 0.25em;
+}
+
+h2:first-of-type {
+    margin-top: 0.5em;
+}
+
+table,
+tr,
+td,tbody {
+    border: 1px solid rgb(255, 255, 255);
+}
+
+table {
+    border-collapse: collapse;
+    margin: 5% auto;
+}
+
+tr {
+    height: 20px;
+}
+
+td {
+    width: 20px;
+}
+
+input[type=number] {
+    width: 6em;
+    border: none;
+    border-radius: 5px;
+    margin: 0;
+    padding: .7em;
+}
+
+input[type=submit] {
+    border: none;
+    border-radius: 5px;
+    background: rgb(196, 59, 59);
+    color: white;
+    font-family: sans-serif;
+    padding: .7em;
+}
+
+label{
+    background: rgb(18, 19, 18);
+    border-radius: 5px;
+    padding: .5em;
+    color: white;
+    font-family: sans-serif;
+}
